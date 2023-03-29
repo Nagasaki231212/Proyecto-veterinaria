@@ -1,3 +1,4 @@
 class Calculadora
-    attr_accessor :animal_id, :medicamento_id
+    attr_accessor :animal, :medicamento
 end
+
