@@ -1,0 +1,2 @@
+class Toro < Animal
+end 

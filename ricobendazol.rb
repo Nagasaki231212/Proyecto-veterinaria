@@ -1,0 +1,2 @@
+class Ricobendazol < Medicina
+end 
